@@ -1,4 +1,4 @@
-/* =============================================
+﻿/* =============================================
    Department Website - Stylesheet
    柴田研究室 / Shibata Lab
    ============================================= */
@@ -332,8 +332,8 @@ img {
 }
 
 .member-avatar {
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   background: var(--bg-alt);
   margin: 0 auto 16px;
